@@ -1,1 +1,1 @@
-print("Test")
+# Resolve thru card name (ITDL-1)
